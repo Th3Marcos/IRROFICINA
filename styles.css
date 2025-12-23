@@ -72,7 +72,6 @@
             text-align: center;
             font-weight: bolder;
             font-style: oblique;
-            font-family: cursive;
             color: #333;
             margin-bottom: 20px;
             padding: 40px 20px;
@@ -151,4 +150,5 @@
             background-color: #44444488;
             color: #fff;
             border-radius: 10px;
+
         }
